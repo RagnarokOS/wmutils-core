@@ -37,5 +37,6 @@ Files: pfw /usr/bin/
  man/atomx.1 /usr/share/man/man1/
 Readme: README.md
 Copyright: LICENSE
+Changelog: changelog
 Description: wmutils-core
  Window management utilities
