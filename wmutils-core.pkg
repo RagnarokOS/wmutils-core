@@ -3,6 +3,9 @@ Version: 999+ragnarok01
 Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
 Architecture: amd64
 Section: x11
+Depends: libxcb1-dev,
+ libxcb-util-dev,
+ libxcb-cursor-dev
 Files: pfw /usr/bin/
  pdw /usr/bin/
  lsw /usr/bin/
